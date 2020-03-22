@@ -1,0 +1,12 @@
+## Interface: 80300
+## Title: Best In Slot NG [|cffff975bBattle for Azeroth Raids|r]
+## Notes: Battle for Azeroth Raids Module for BestInSlotNG
+## Author: Astratheon @ Kazzak - EU
+## Version: v8.3.0
+## Dependencies: BestInSlotNG
+
+BattleOfDazaralor.lua
+CrucibleOfStorms.lua
+NyalothaTheWakingCity.lua
+TheEternalPalace.lua
+Uldir.lua
